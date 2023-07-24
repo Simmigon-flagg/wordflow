@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wordflow/static/css/main.073c9b0a.css",
+    "main.js": "/wordflow/static/js/main.65c48f7f.js",
+    "static/js/787.70ef4ea8.chunk.js": "/wordflow/static/js/787.70ef4ea8.chunk.js",
+    "index.html": "/wordflow/index.html",
+    "main.073c9b0a.css.map": "/wordflow/static/css/main.073c9b0a.css.map",
+    "main.65c48f7f.js.map": "/wordflow/static/js/main.65c48f7f.js.map",
+    "787.70ef4ea8.chunk.js.map": "/wordflow/static/js/787.70ef4ea8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.65c48f7f.js"
+  ]
+}
